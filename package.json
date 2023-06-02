@@ -1,0 +1,38 @@
+{
+  "name": "branchify-backend-api",
+  "version": "1.0.0",
+  "description": "This is the official backend for my branchify web application",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev:server": "nodemon ./src/index.js"
+  },
+  "keywords": [
+    "linktree",
+    "linktree-clone",
+    "linktree-competition",
+    "links",
+    "social-media-manager",
+    "service-payments",
+    "backend-development",
+    "nodejs-backend",
+    "nodejs-api",
+    "rest-apis",
+    "nodejs",
+    "mongoDB",
+    "redis",
+    "socket.io",
+    "real-time-chat"
+  ],
+  "author": "Effi Emmanuel",
+  "license": "MIT",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.1.3",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^7.2.2"
+  }
+}
