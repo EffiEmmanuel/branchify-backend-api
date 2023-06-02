@@ -1,5 +1,3 @@
-Certainly! Here's a template for a well-formatted README.md file for your Branchify web app using N-Tier architecture:
-
 ```markdown
 # Branchify
 
