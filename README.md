@@ -17,6 +17,8 @@ Branchify follows an N-Tier architecture, which enhances security and separates 
 
 ## Getting Started
 
+Link to the frontend repository: https://github.com/EffiEmmanuel/branchify
+
 To get started with Branchify, follow these steps:
 
 1. Clone the repository:
@@ -74,8 +76,6 @@ Contributions are welcome! If you want to contribute to Branchify, please follow
 
 This project is licensed under the [MIT License](LICENSE).
 
-[Add any other relevant sections like features, technologies used, or acknowledgments]
+## Technologies used
 
-```
-
-Feel free to modify this template to fit the specific details and requirements of your Branchify web app. Remember to provide accurate and detailed information to help users understand your project and contribute to it effectively.
+JavaScript, Nodejs, Expressjs, N-Tier architecture, MongoDB
